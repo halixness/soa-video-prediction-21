@@ -1,7 +1,7 @@
 # State of Art Video Prediction
 <img src="https://raw.githubusercontent.com/dyelax/Adversarial_Video_Generation/master/Results/Gifs/4_Comparison.gif" width="500px"></img>
 
-Collection of SOA Deep Learning Models for Video Prediction with experiments.
+Collection of High-Performance Deep Learning Models for Video Prediction with experiments.
 
 This repository references to the paper ["A Review on Deep Learning Techniques for Video Prediction"](https://arxiv.org/pdf/2004.05214.pdf), and provides a unified collection of the best-performing architectures in order to explore the advancements in video prediction.
 
